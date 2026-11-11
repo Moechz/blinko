@@ -81,7 +81,7 @@
   "github_repo": "blinko",
   "upstream_version": "1.8.7",
   "release_tag_prefix": "v",
-  "version": "1.8.7-1",
+  "version": "1.8.7-2",
   "help": "https://github.com/Moechz/blinko/issues",
   "official": "https://github.com/blinko-space/blinko",
   "license": "AGPL-3.0",
